@@ -1,0 +1,5 @@
+Time resolution is 1 ps
+PASS, tag=7, index=3, offset=1
+PASS, tag=200000, index=20, offset=8
+PASS=          2, FAIL=          0
+$finish called at time : 30 ns : File "C:/Users/Enoch/Git/l1-cache-controller/l1-cache-controller.srcs/sim_1/new/addr_decode_tb.sv" Line 67

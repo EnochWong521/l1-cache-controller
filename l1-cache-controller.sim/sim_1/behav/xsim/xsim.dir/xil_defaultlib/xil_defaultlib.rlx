@@ -1,0 +1,7 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+C:/Users/Enoch/Git/l1-cache-controller/l1-cache-controller.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/Enoch/Git/l1-cache-controller/l1-cache-controller.srcs/sim_1/new/addr_decode_tb.sv,1783314193,systemVerilog,,,,addr_decode_tb,,uvm,../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/Enoch/Git/l1-cache-controller/l1-cache-controller.srcs/sources_1/new/addr_decode.sv,1783315703,systemVerilog,,C:/Users/Enoch/Git/l1-cache-controller/l1-cache-controller.srcs/sim_1/new/addr_decode_tb.sv,,addr_decode,,uvm,../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
